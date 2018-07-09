@@ -1,0 +1,37 @@
+buildscript {
+    ext {
+        springBootVersion = '2.0.3.RELEASE'
+    }
+    repositories {
+        maven { url "https://maven.artifactory.homedepot.com/artifactory/libs-release" }
+        maven { url 'https://maven.artifactory.homedepot.com/artifactory/plugins-release' }
+        mavenLocal()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'org.springframework.boot'
+apply plugin: 'io.spring.dependency-management'
+
+group = 'com.homedepot'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = 1.8
+
+repositories {
+    maven { url "https://maven.artifactory.homedepot.com/artifactory/libs-release" }
+    maven { url "https://maven.artifactory.homedepot.com/artifactory/libs-snapshot" }
+    maven { url "https://maven.artifactory.homedepot.com/artifactory/libs-snapshot-local" }
+    mavenLocal()
+}
+
+dependencies {
+    compile('org.springframework.boot:spring-boot-starter-web')
+    compile group: 'com.google.cloud', name: 'google-cloud', version: '0.4.0'
+    // https://mvnrepository.com/artifact/com.google.cloud/google-cloud-spanner
+    compile group: 'com.google.cloud', name: 'google-cloud-spanner', version: '0.35.0-beta'
+    testCompile('org.springframework.boot:spring-boot-starter-test')
+}
