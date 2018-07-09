@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.api.grpc:grpc-google-cloud-language-v1beta1:0.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/grpc-google-cloud-language-v1beta1/0.1.0/cd387933429aa9dec7f331f99217a821bf34c642/grpc-google-cloud-language-v1beta1-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/grpc-google-cloud-language-v1beta1/0.1.0/e002c2bb2d40f16540bc44bbae210d02f3110bdb/grpc-google-cloud-language-v1beta1-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

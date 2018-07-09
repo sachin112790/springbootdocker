@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.api.grpc:grpc-google-devtools-cloudtrace-v1:0.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/grpc-google-devtools-cloudtrace-v1/0.1.0/b363cb030b91280dca6be31fa7bdba4ab69231f2/grpc-google-devtools-cloudtrace-v1-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/grpc-google-devtools-cloudtrace-v1/0.1.0/38e27de9d18da8c9f33466199b7e91312fa117ca/grpc-google-devtools-cloudtrace-v1-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

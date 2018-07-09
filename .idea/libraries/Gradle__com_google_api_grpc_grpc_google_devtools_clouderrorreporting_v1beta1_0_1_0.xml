@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.api.grpc:grpc-google-devtools-clouderrorreporting-v1beta1:0.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/grpc-google-devtools-clouderrorreporting-v1beta1/0.1.0/e5d5183dcfdd868e52af4bef39dfd18e057b5d8/grpc-google-devtools-clouderrorreporting-v1beta1-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/grpc-google-devtools-clouderrorreporting-v1beta1/0.1.0/f9cdc0a5aea1f8a89a5184441a7f7d79a146e50a/grpc-google-devtools-clouderrorreporting-v1beta1-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

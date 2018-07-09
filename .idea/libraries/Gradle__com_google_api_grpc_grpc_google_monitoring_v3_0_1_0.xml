@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.api.grpc:grpc-google-monitoring-v3:0.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/grpc-google-monitoring-v3/0.1.0/4bc125735ba8652212a5c0954441cb66867e18fd/grpc-google-monitoring-v3-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/grpc-google-monitoring-v3/0.1.0/21b8ea4b61e8f1a47748d0ca67b3004125b9081b/grpc-google-monitoring-v3-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

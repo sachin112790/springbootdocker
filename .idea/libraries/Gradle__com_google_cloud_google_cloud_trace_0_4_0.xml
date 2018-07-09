@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.cloud:google-cloud-trace:0.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-trace/0.4.0/71cd57f50e1018cb3e614f68610430a4954d2bf6/google-cloud-trace-0.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-trace/0.4.0/b7fa9222f113c605b9cd5c596c7ac3d38bd6d6e/google-cloud-trace-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

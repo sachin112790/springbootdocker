@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.cloud:google-cloud-dns:0.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-dns/0.4.0/e41283c4a6d23c208a755c0f01314f4a8645b698/google-cloud-dns-0.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-dns/0.4.0/36f3ebe7fa85f450c77f58ff3c61948a31cea7b8/google-cloud-dns-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
